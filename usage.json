@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/analytix-dashboard",
+  "packageVersion": "1.0.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/analytix-dashboard",
+  "usageRepository": "https://github.com/x12i-sdk/analytix-dashboard",
+  "sourceRepository": "https://github.com/x12i/analytix",
+  "sourceCommit": "cf2ed708652df6f853af877340acc385d17c76f2",
+  "sourcePackageDirectory": "packages/analytix-dashboard",
+  "example": {
+    "title": "Assemble a dashboard and isolate one failed widget",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:33:54.918580+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "54fcdb49c7c40d88dd2434d46badb252ab9ad21205d878b4c3a4920852347010",
+    "manifestSha256": "4464d7e195c2a6e970914ef6e9f19b9168100dd39b7aab6b2378c37b62871e40"
+  },
+  "validationFiles": {
+    "src/index.mjs": "54fcdb49c7c40d88dd2434d46badb252ab9ad21205d878b4c3a4920852347010"
+  }
+}
